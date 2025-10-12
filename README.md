@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm an undergraduate student passionate about codi
 ---
 
 ### 🌟 About Me
-- 🎓 Undergraduate student with a keen interest in programming and web development.
-- 🐍 Proficient in **Python, C/C++, HTML, and CSS**.
-- 💻 Working on **WordPress theme design** for my personal website.
+- 🎓 Postgraduate student with a keen interest in programming and web development.
+- 🐍 Proficient in **Python, C/C++, HTML, CSS, and Js **.
+- 💻 Worked on **WordPress theme design** for my personal website.
 - 🚀 Passionate about **SMO, digital marketing, and content moderation**.
 
 ---
@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm an undergraduate student passionate about codi
 - Python 🐍
 - C/C++ 💻
 - HTML & CSS 🌐
+- JavaScript
+- ReactJs
 - WordPress 🎨
 
 📊 **Digital & Marketing:**
