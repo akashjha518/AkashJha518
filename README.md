@@ -1,6 +1,6 @@
 ### Hi there, I'm Akash Jha 👋
 
-Welcome to my GitHub profile! I'm an undergraduate student passionate about coding, technology, and digital creativity. I specialize in Python, C/C++, HTML, CSS, and WordPress development. I'm currently exploring opportunities in Python-related fields and content moderation.
+Welcome to my GitHub profile! I'm an postgraduate student passionate about coding, technology, and digital creativity. I specialized in Python, C/C++, Frontend development. I'm currently exploring opportunities in web development, Python-related fields and content moderation.
 
 ---
 
