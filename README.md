@@ -4,8 +4,8 @@ Hi there 👋
 
 I'm a postgraduate with a passion for software development, technology, and continuous learning. My areas of expertise include Python, C/C++, Frontend Development, and problem-solving. I enjoy building practical applications, exploring new technologies, and contributing to open-source projects.
 
-🔹 Skills: Python, C/C++, HTML, CSS, JavaScript
-🔹 Interests: Web Development, Python Development, Content Moderation
+🔹 Skills: Python, C/C++, HTML, CSS, JavaScript<br>
+🔹 Interests: Web Development, Python Development, Content Moderation<br>
 🔹 Currently: Seeking opportunities to apply my skills, grow professionally, and contribute to impactful projects
 
 Feel free to explore my repositories and connect with me!
