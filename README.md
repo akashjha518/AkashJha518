@@ -1,12 +1,21 @@
 ### Hi there, I'm Akash Jha 👋
 
-Welcome to my GitHub profile! I'm an postgraduate student passionate about coding, technology, and digital creativity. I specialized in Python, C/C++, Frontend development. I'm currently exploring opportunities in web development, Python-related fields and content moderation.
+Hi there 👋
+
+I'm a postgraduate with a passion for software development, technology, and continuous learning. My areas of expertise include Python, C/C++, Frontend Development, and problem-solving. I enjoy building practical applications, exploring new technologies, and contributing to open-source projects.
+
+🔹 Skills: Python, C/C++, HTML, CSS, JavaScript
+🔹 Interests: Web Development, Python Development, Content Moderation
+🔹 Currently: Seeking opportunities to apply my skills, grow professionally, and contribute to impactful projects
+
+Feel free to explore my repositories and connect with me!
+
 
 ---
 
 ### 🌟 About Me
 - 🎓 Postgraduate student with a keen interest in programming and web development.
-- 🐍 Proficient in **Python, C/C++, HTML, CSS, and Js **.
+- 🐍 Proficient in **Python, C/C++, HTML, CSS, and Js**.
 - 💻 Worked on **WordPress theme design** for my personal website.
 - 🚀 Passionate about **SMO, digital marketing, and content moderation**.
 
