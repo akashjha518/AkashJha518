@@ -14,10 +14,12 @@ Feel free to explore my repositories and connect with me!
 ---
 
 ### 🌟 About Me
-- 🎓 Postgraduate student with a keen interest in programming and web development.
-- 🐍 Proficient in **Python, C/C++, HTML, CSS, and Js**.
-- 💻 Worked on **WordPress theme design** for my personal website.
-- 🚀 Passionate about **SMO, digital marketing, and content moderation**.
+
+* 🎓 Recently completed my postgraduate studies with a strong interest in software development and web technologies.
+* 🐍 Skilled in **Python, C/C++, HTML, CSS, and JavaScript**.
+* 💻 Experienced in **WordPress website and theme customization** for personal projects.
+* 🚀 Passionate about **Web Development, Digital Marketing, Social Media Optimization (SMO), and Content Moderation**.
+* 🌱 Continuously learning new technologies and building projects to enhance my skills.
 
 ---
 
@@ -31,10 +33,6 @@ Feel free to explore my repositories and connect with me!
 - ReactJs
 - WordPress 🎨
 
-📊 **Digital & Marketing:**
-- Social Media Optimization (SMO) 📢
-- Content Moderation 📑
-- Branding & Engagement 🚀
 
 ---
 
