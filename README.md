@@ -42,8 +42,7 @@ Feel free to explore my repositories and connect with me!
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashjha518&show_icons=true&theme=radical)]-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=akashjha518&theme=radical)](https://git.io/streak-stats)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashjha518&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akashjha518&layout=compact&theme=radical)
 
 ---
 
